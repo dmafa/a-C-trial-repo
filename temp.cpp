@@ -15,6 +15,8 @@ for ( double v = 1 ; v < 8 ; v++ )
 /*
 cout << endl << 'Z' - 'A' + 1 << endl ;
 
+added parasyte comment
+
 cout << (char)7 ;   // beep
   */
    
